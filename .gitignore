@@ -1,0 +1,22 @@
+# Windows temporary files
+Thumbs.db
+Desktop.ini
+*.tmp
+
+# MySQL temporary and log files
+*.log
+*.pid
+
+# Environment and credential files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Editor and IDE files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store

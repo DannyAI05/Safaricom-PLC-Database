@@ -67,6 +67,20 @@ Shows employees and the number of customer service interactions handled by each 
 
 Summarises active customer subscriptions and the total listed prices of their associated service plans.
 
+## Project Screenshots
+
+### Database Sample Data
+![Database Tables](screenshots/sample_data_records.png)
+
+### Customer Subscriptions Report
+![Customer Subscriptions](screenshots/customer_subscription.png)
+
+### Employee Service Report
+![Employee Service Report](screenshots/employee_service_report.png)
+
+### Active Subscriptions Report
+![Active Subscriptions](screenshots/active_subscription_report.png)
+
 ## Project Files
 
 ```text

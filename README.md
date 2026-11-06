@@ -69,8 +69,8 @@ Summarises active customer subscriptions and the total listed prices of their as
 
 ## Project Screenshots
 
-### Database Tables
-![Database Tables](database_tables.png)
+### Database Sample Data
+![Database Tables](sample_data_records.png)
 
 ### Customer Subscriptions Report
 ![Customer Subscriptions](customer_subscription.png)

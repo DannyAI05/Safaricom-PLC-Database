@@ -69,22 +69,17 @@ Summarises active customer subscriptions and the total listed prices of their as
 
 ## Project Screenshots
 
-### Database Sample Data
-![Database Tables](<img width="221" height="202" alt="sample_data_records" src="https://github.com/user-attachments/assets/2e895d0e-b77e-43b5-bb3c-d972d88d4925" />
-)
+### Database Tables
+![Database Tables](database_tables.png)
 
 ### Customer Subscriptions Report
-![Customer Subscriptions](<img width="1007" height="225" alt="customer_subscription" src="https://github.com/user-attachments/assets/0d67a7e9-a5d5-4b57-be7f-aeba9b3faa93" />
-)
+![Customer Subscriptions](customer_subscriptions.png)
 
 ### Employee Service Report
-![Employee Service Report](<img width="515" height="121" alt="employee_service_report" src="https://github.com/user-attachments/assets/3a32aa1a-d854-469f-b60c-d4c5d0454bbd" />
-)
+![Employee Service Report](employee_service_report.png)
 
 ### Active Subscriptions Report
-![Active Subscriptions](<img width="276" height="48" alt="active_subscription_report" src="https://github.com/user-attachments/assets/92047815-2dac-4bae-8407-0a2539cc7490" />
-)
-
+![Active Subscriptions](active_subscriptions_report.png)
 ## Project Files
 
 ```text

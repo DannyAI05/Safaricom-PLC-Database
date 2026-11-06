@@ -73,13 +73,13 @@ Summarises active customer subscriptions and the total listed prices of their as
 ![Database Tables](database_tables.png)
 
 ### Customer Subscriptions Report
-![Customer Subscriptions](customer_subscriptions.png)
+![Customer Subscriptions](customer_subscription.png)
 
 ### Employee Service Report
 ![Employee Service Report](employee_service_report.png)
 
 ### Active Subscriptions Report
-![Active Subscriptions](active_subscriptions_report.png)
+![Active Subscriptions](active_subscription_report.png)
 ## Project Files
 
 ```text
